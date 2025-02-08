@@ -1,5 +1,5 @@
 ## 提交的内容包括
-* finetune-eval(1).ipynb   
+* finetune-eval.ipynb   
 为训练时使用的代码文件，其中也保存了原模型与微调后模型的测评结果。
 * loss.xlsx   
 为训练模型时保存了loss的表格。
