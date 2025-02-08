@@ -1,0 +1,819 @@
+{
+   "ADTSerror": {
+      "message": "ADTSヘッダーが見つかりません AES-128-ECBで暗号化されたリソースの可能性があります。 サードパーティのマージャーソフトを使用してください。"
+   },
+   "DRMerror": {
+      "message": "メディアはDRMで保護されていますので、ダウンロードにはサードパーティーのツールをご利用ください。"
+   },
+   "M3U8DLparameterLong": {
+      "message": "パラメータm3u8dlが長すぎて、m3u8DLが起きないかもしれません、m3u8DLダウンロードにコピーしてください。"
+   },
+   "about": {
+      "message": "について"
+   },
+   "addParameters": {
+      "message": "パラメータの追加"
+   },
+   "addRegex": {
+      "message": "正則を追加する"
+   },
+   "addSettingParameters": {
+      "message": "設定パラメータの追加"
+   },
+   "addSuffix": {
+      "message": "サフィックスを追加する"
+   },
+   "addType": {
+      "message": "タイプを追加する"
+   },
+   "addTypeError": {
+      "message": "取得タイプのフォーマットエラーです。ご確認ください。"
+   },
+   "address": {
+      "message": "ウェブサイトのアドレス"
+   },
+   "alert": {
+      "message": "ヒント"
+   },
+   "alwaysDisableCatCatcher": {
+      "message": "（そのオプション）において、いつも cat-catch ダウンロード機能を無効にする"
+   },
+   "aria2Tip": {
+      "message": "これは優れたダウンロードツールです 使い方 ドキュメントを見る"
+   },
+   "audio": {
+      "message": "音響周波数"
+   },
+   "audioOnly": {
+      "message": "オーディオのみ"
+   },
+   "autoClosePageAfterDownload": {
+      "message": "ファイルのダウンロードが終了したら、ページが勝手に閉じる設定にする"
+   },
+   "autoCloserDownload": {
+      "message": "ダウンロード後、ページは自動的に閉じられます"
+   },
+   "autoDownM3u8Tip": {
+      "message": "[ダウンロードボタン]をタップして、m3u8 解析器を使用して直ちに結合ダウンロードを開始する"
+   },
+   "autoDownload": {
+      "message": "自動ダウンロード"
+   },
+   "autoSetRefererCookieParams": {
+      "message": "自動でReferer Cookieパラメーターを設定する"
+   },
+   "badgeNumber": {
+      "message": "アイコンに数字のバッジが表示されます"
+   },
+   "bitrate": {
+      "message": "ビットレート"
+   },
+   "blobM3u8DLError": {
+      "message": "ブロブアドレスがm3u8DLのダウンロードを呼び出せない"
+   },
+   "blockResource": {
+      "message": "リソースを遮断する"
+   },
+   "blockResourceTip": {
+      "message": "望まないリソースを遮断する"
+   },
+   "cacheCapture": {
+      "message": "キャッシュキャプチャー"
+   },
+   "catCatch": {
+      "message": "cat-catch"
+   },
+   "clear": {
+      "message": "空にする"
+   },
+   "clearCapturedData": {
+      "message": "スクレイピングした情報をクリアする"
+   },
+   "clearOption": {
+      "message": "更新画面後、新しいページに飛ばして、これまで取来到的数据都清除掉ね"
+   },
+   "close": {
+      "message": "閉じる"
+   },
+   "closeCapture": {
+      "message": "キャプチャーオフ"
+   },
+   "closeDownload": {
+      "message": "ダウンロードを停止する"
+   },
+   "closeRecording": {
+      "message": "録画を停止する"
+   },
+   "closeSearch": {
+      "message": "検索を停止する"
+   },
+   "closeSimulation": {
+      "message": "シミュレーションを終了させる"
+   },
+   "collapseAll": {
+      "message": "展開を閉じる"
+   },
+   "collapseAllNodes": {
+      "message": "すべてのノードを折りたたむ"
+   },
+   "confirm": {
+      "message": "確認"
+   },
+   "confirmDownload": {
+      "message": "コモン $num$ ファイル、ダウンロードを確認しますか?",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirmLoading": {
+      "message": "コモン $num$ リソース、あなたはそれらをアンロードしますか?",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirmReset": {
+      "message": "本当に初期状態に戻してよろしいですか？"
+   },
+   "convertToM3U8": {
+      "message": "m3u8に変換する"
+   },
+   "copiedToClipboard": {
+      "message": "クリップボードにコピーされました"
+   },
+   "copy": {
+      "message": "コピー"
+   },
+   "copyCommand": {
+      "message": "コマンドのコピー"
+   },
+   "copyTip": {
+      "message": "コピーボタンがクリップボードに書き込む内容をカスタマイズして、サードパーティーのアプリケーションで使いやすくする。"
+   },
+   "currentPage": {
+      "message": "現在のページ"
+   },
+   "customCSS": {
+      "message": "独自のスタイルシート、CSSを設定する"
+   },
+   "customFilenameOption": {
+      "message": "ファイルを保存する際、任意の名称（既定ではウェブページの見出し）を選ぶ"
+   },
+   "customKeyPlaceholder": {
+      "message": "カスタムキー 16進数またはbase64またはキーのURL"
+   },
+   "customSaveFileName": {
+      "message": "自分だけの保存ファイル名を作る"
+   },
+   "customVLCProtocol": {
+      "message": "VLC流転送プロトコルのカスタム設定"
+   },
+   "decryptionError": {
+      "message": "復号エラー"
+   },
+   "deepSearch": {
+      "message": "深層検索"
+   },
+   "default": {
+      "message": "デフォルト設定"
+   },
+   "defaultPopup": {
+      "message": "デフォルトのポップアップ・モード"
+   },
+   "delete": {
+      "message": "削除"
+   },
+   "description": {
+      "message": "ウェブメディア探す TOOL"
+   },
+   "disable": {
+      "message": "無効にする"
+   },
+   "disableAll": {
+      "message": "すべて無効にする"
+   },
+   "doNotClear": {
+      "message": "保持现状、クリアしないで"
+   },
+   "documentation": {
+      "message": "これは文書ですよ"
+   },
+   "download": {
+      "message": "ダウンロード"
+   },
+   "downloadComplete": {
+      "message": "ダウンロード完了"
+   },
+   "downloadDir": {
+      "message": "カタログをダウンロード"
+   },
+   "downloadExistingData": {
+      "message": "既存データのダウンロード"
+   },
+   "downloadFailed": {
+      "message": "ダウンロードに失敗しました"
+   },
+   "downloadProgress": {
+      "message": "ダウンロードの進行状況"
+   },
+   "downloadRange": {
+      "message": "ダウンロード範囲"
+   },
+   "downloadSegmentList": {
+      "message": "セグメントリストのダウンロード"
+   },
+   "downloadThreads": {
+      "message": "ダウンロードスレッド"
+   },
+   "downloadWhileSaving": {
+      "message": "保存しながらダウンロード"
+   },
+   "downloadWithRequestHeader": {
+      "message": "リクエストヘッダーパラメータ付きダウンロード"
+   },
+   "downloaded": {
+      "message": "ダウンロード済み"
+   },
+   "downloadedVideoLength": {
+      "message": "ダウンロードしたビデオの長さ"
+   },
+   "downloader": {
+      "message": "ダウンローダー"
+   },
+   "downloaderTip": {
+      "message": "リソースのダウンロードが失敗したと判断したら、ダウンローダーを自動的に起動し再度試行する"
+   },
+   "duration": {
+      "message": "年限"
+   },
+   "enable": {
+      "message": "有効にする"
+   },
+   "enableAll": {
+      "message": "すべて有効にする"
+   },
+   "encryptedHLS": {
+      "message": "暗号化HLS"
+   },
+   "encryptedSAMPLE": {
+      "message": "SAMPLE-AES-CTRで暗号化されたリソースは、現時点では処理できません。"
+   },
+   "encryptionAlgorithm": {
+      "message": "暗号化アルゴリズム"
+   },
+   "end": {
+      "message": "閉じる"
+   },
+   "excludeDuplicateResources": {
+      "message": "同じリソースは除いて、CPUを使わせすぎないようにね"
+   },
+   "exit": {
+      "message": "辞める"
+   },
+   "expandAll": {
+      "message": "すべて展開する"
+   },
+   "expandAllNodes": {
+      "message": "すべてのノードを展開する"
+   },
+   "expandPlayable": {
+      "message": "展開可能"
+   },
+   "expandSelected": {
+      "message": "選択したものを展開する"
+   },
+   "exportSettings": {
+      "message": "設定ファイルを出力する"
+   },
+   "extension": {
+      "message": "拡張子"
+   },
+   "extensionName": {
+      "message": "拡張子"
+   },
+   "extractSlices": {
+      "message": "エキススライス"
+   },
+   "ffmpegTranscoding": {
+      "message": "ffmpegによるトランスコーディング"
+   },
+   "fileLoading": {
+      "message": "ファイルの読み込み"
+   },
+   "fileRetrievalFailed": {
+      "message": "ファイルの取得に失敗しました"
+   },
+   "fileTooLarge": {
+      "message": "より大きいファイル$size$ オンラインffmpegは使用できません。マージされたファイルをダウンロードしています。",
+      "placeholders": {
+         "size": {
+            "content": "$1"
+         }
+      }
+   },
+   "filter": {
+      "message": "ふるいける"
+   },
+   "filterSize": {
+      "message": "開始時のファイルサイズ"
+   },
+   "flag": {
+      "message": "識別子"
+   },
+   "flagTip": {
+      "message": "i: 大文字小文字を区別しない, g: グローバル検索。空白でも可。"
+   },
+   "formatConversionError": {
+      "message": "フォーマット変換エラー、mp4変換をキャンセルして、もう一度ダウンロードしてください。"
+   },
+   "fullscreen": {
+      "message": "フルスクリーン"
+   },
+   "functionEntry": {
+      "message": "機能の入り口"
+   },
+   "getParameters": {
+      "message": "GETパラメータ"
+   },
+   "goBack": {
+      "message": "前のページ"
+   },
+   "hasSent": {
+      "message": "送信"
+   },
+   "hevcPreviewTip": {
+      "message": "HEVC/H.265でエンコードされたスライスファイル プレビュー非対応"
+   },
+   "hevcTip": {
+      "message": "HEVC/H.265でエンコードされたスライスファイル オンラインffmpegトランスコードのみ対応"
+   },
+   "iconOption": {
+      "message": "ウェブサイトのアイコンを見せてくれるよ"
+   },
+   "importConfiguration": {
+      "message": "構成情報を導入する"
+   },
+   "incorrectKey": {
+      "message": "キーエラー"
+   },
+   "invertSelection": {
+      "message": "選択解除"
+   },
+   "invoke": {
+      "message": "呼び出し"
+   },
+   "invokeApp": {
+      "message": "プログラムを呼び出す"
+   },
+   "invokeM3u8DL": {
+      "message": "m3u8DLの呼び出し"
+   },
+   "invokeProtocolTemplate": {
+      "message": "API呼び出し規約テンプレート"
+   },
+   "jsonFormatter": {
+      "message": "JSON のフォーマット化"
+   },
+   "key": {
+      "message": "キー"
+   },
+   "keyAddress": {
+      "message": "キーアドレス"
+   },
+   "keyDownloadFailed": {
+      "message": "キーのダウンロードに失敗しました"
+   },
+   "liveHLS": {
+      "message": "ライブストリーミングHLS"
+   },
+   "loading": {
+      "message": "読み込み中..."
+   },
+   "loadingData": {
+      "message": "データ読み込み中..."
+   },
+   "localM3u8": {
+      "message": "ローカルm3u8"
+   },
+   "loop": {
+      "message": "ループ"
+   },
+   "m3u8DLTips": {
+      "message": "これは非常に優秀なm3u8 MPDの第三者ダウンロードツールです。使用方法は文書を参照してください。"
+   },
+   "m3u8Error": {
+      "message": "m3u8ファイルの解析または再生にエラーがあります。コンソールでエラーメッセージの詳細を確認してください。"
+   },
+   "m3u8Info": {
+      "message": "すべて $num$ ドキュメント、合計時間 $time$",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         },
+         "time": {
+            "content": "$2"
+         }
+      }
+   },
+   "m3u8Parser": {
+      "message": "M3U8 解析ツール"
+   },
+   "m3u8Placeholder": {
+      "message": "m3u8 コンテンツまたは TS フラグメントリストを入力します。"
+   },
+   "m3u8Playlist": {
+      "message": "m3u8プレイリスト"
+   },
+   "m3u8Url": {
+      "message": "M3U8アドレス"
+   },
+   "match": {
+      "message": "一致"
+   },
+   "mediaControl": {
+      "message": "メディアコントロール"
+   },
+   "mergeDownloads": {
+      "message": "複合ダウンロード"
+   },
+   "merging": {
+      "message": "進行中の統合"
+   },
+   "moreFeatures": {
+      "message": "さらに機能"
+   },
+   "moreFrequent": {
+      "message": "もっと頻繁に"
+   },
+   "mp4Format": {
+      "message": "mp4形式"
+   },
+   "mpdParser": {
+      "message": "MPD 解析ツール"
+   },
+   "multipleAudios": {
+      "message": "複数のオーディオ"
+   },
+   "multipleAudiosTip": {
+      "message": "このm3u8ファイルには複数のオーディオが含まれています"
+   },
+   "multipleSubtitles": {
+      "message": "複数の字幕"
+   },
+   "multipleSubtitlesTip": {
+      "message": "このm3u8ファイルには複数の字幕が含まれています"
+   },
+   "multiplier": {
+      "message": "倍数:"
+   },
+   "mute": {
+      "message": "ミュート"
+   },
+   "newDownloader": {
+      "message": "新しいダウンローダー"
+   },
+   "nextLevel": {
+      "message": "次の階層のファイル"
+   },
+   "nextLevelTip": {
+      "message": "このM3U8ファイルは複数のM3U8ファイルがネストされています。"
+   },
+   "noAudio": {
+      "message": "音声なし"
+   },
+   "noControllableMediaDetected": {
+      "message": "操作可能なメディアが検出されなかった"
+   },
+   "noData": {
+      "message": "まだ匂いがしない~"
+   },
+   "noMatch": {
+      "message": "一致しない"
+   },
+   "noMediaDetected": {
+      "message": "メディアを含むウェブページが検出されなかった"
+   },
+   "noVideo": {
+      "message": "ビデオなし"
+   },
+   "normalClear": {
+      "message": "普通に片付ける"
+   },
+   "normalPlay": {
+      "message": "通常再生"
+   },
+   "onlineMerge": {
+      "message": "オンライン結合"
+   },
+   "onlineServiceAddress": {
+      "message": "Webサービスの住所"
+   },
+   "openDir": {
+      "message": "ダウンロードフォルダーを開く"
+   },
+   "openDownloaderPageInBackground": {
+      "message": "ダウンローダーのアプリケーションやウィンドウを后台起動する"
+   },
+   "openInBgDownload": {
+      "message": "背後でダウンロードページを開きます"
+   },
+   "operation": {
+      "message": "作業"
+   },
+   "option": {
+      "message": "オプション"
+   },
+   "originalM3u8": {
+      "message": "元のm3u8"
+   },
+   "otherFeatures": {
+      "message": "その他の機能"
+   },
+   "otherFiles": {
+      "message": "その他の資料"
+   },
+   "otherPage": {
+      "message": "他のページ"
+   },
+   "otherSettings": {
+      "message": "追加のオプション設定"
+   },
+   "parameter": {
+      "message": "引数"
+   },
+   "parameterSetting": {
+      "message": "引数の調整"
+   },
+   "parser": {
+      "message": "ビデオリンクの中身を解析する"
+   },
+   "pause": {
+      "message": "一時停止"
+   },
+   "pictureInPicture": {
+      "message": "ピクチャーインピクチャー"
+   },
+   "play": {
+      "message": "再生"
+   },
+   "popup": {
+      "message": "ポップアップ"
+   },
+   "possibleKey": {
+      "message": "疑わしいキーを見つけています"
+   },
+   "preview": {
+      "message": "動画"
+   },
+   "previewCommand": {
+      "message": "コマンドのプレビュー"
+   },
+   "previewMode": {
+      "message": "ビデオのプレビューを表示するために、ローカルのプレイヤーを通じて特定の協議書準則を適用する"
+   },
+   "previewModePlaceholder": {
+      "message": "空白を保持することで無効化され、デフォルトではpopupページでビデオプレビューが使用される"
+   },
+   "recordLive": {
+      "message": "ライブ録音"
+   },
+   "recordWebRTC": {
+      "message": "WebRTCの録画をする"
+   },
+   "recordingDuration": {
+      "message": "記録時間"
+   },
+   "redownloadFailedItems": {
+      "message": "失敗した商品の再注文"
+   },
+   "regex": {
+      "message": "正規表現"
+   },
+   "regexExpression": {
+      "message": "正規表現"
+   },
+   "regexMatch": {
+      "message": "正規表現と一致する"
+   },
+   "regexSuffixTip": {
+      "message": "取得したURLの接尾辞を指定します。空白のままでもかまいません。接尾辞は自動的に傍受されます（多くのファイルは接尾辞を持ちません）。"
+   },
+   "regexTest": {
+      "message": "正規表現テスト"
+   },
+   "regexTip": {
+      "message": "正規表現はリソースを大量に消費するため、使用には注意が必要である。"
+   },
+   "regexTitle": {
+      "message": "正規表現マッチまたはディープサーチから"
+   },
+   "regularFilterPlaceholder": {
+      "message": "正規表現で筛选するリソースURLにマッチするEnterキーで確認する"
+   },
+   "replaceKeywordList": {
+      "message": "キーワードリストの置換"
+   },
+   "replaceTags": {
+      "message": "タグの交換"
+   },
+   "requestHeaders": {
+      "message": "リクエストヘッダー"
+   },
+   "resetAllSettings": {
+      "message": "全オプションを初期化する"
+   },
+   "resetCopySettings": {
+      "message": "コピー設定のリセット"
+   },
+   "resetOtherSettings": {
+      "message": "追加のオプション設定を初期状態に戻す"
+   },
+   "resetSettings": {
+      "message": "オプションを初期状態に戻す"
+   },
+   "resolution": {
+      "message": "解像"
+   },
+   "restartExtension": {
+      "message": "エクステンションの再起動"
+   },
+   "restoreGetParameters": {
+      "message": "GETパラメータの復元"
+   },
+   "result": {
+      "message": "結果"
+   },
+   "retryDownload": {
+      "message": "再ダウンロード"
+   },
+   "retryingDownload": {
+      "message": "再ダウンロード中。"
+   },
+   "runningCannotChangeSettings": {
+      "message": "実行中、設定を変更できない"
+   },
+   "sNumError": {
+      "message": "シリアル番号エラー"
+   },
+   "sNumMax": {
+      "message": "シリアル番号は最大 $num$",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         }
+      }
+   },
+   "saveAs": {
+      "message": "名前を付けて保存"
+   },
+   "saveAsOption": {
+      "message": "ファイルをダウンロードしたら、どこに保管するか選んでね"
+   },
+   "saveFailed": {
+      "message": "保存に失敗しました"
+   },
+   "savePrompt": {
+      "message": "ハードドライブに保存されますので、ブラウザのダウンロードをご確認ください。"
+   },
+   "saving": {
+      "message": "節約"
+   },
+   "screenCapture": {
+      "message": "画面キャプ"
+   },
+   "screenshot": {
+      "message": "スクリーンショット"
+   },
+   "secretKey": {
+      "message": "鍵"
+   },
+   "segmentList": {
+      "message": "セグメントリスト"
+   },
+   "selectAll": {
+      "message": "すべて選択"
+   },
+   "selectAudio": {
+      "message": "オーディオを選択"
+   },
+   "selectMedia": {
+      "message": "メディアファイルを選ぶ："
+   },
+   "selectVideo": {
+      "message": "ビデオを選択"
+   },
+   "selectWebpage": {
+      "message": "ページ選択："
+   },
+   "send2local": {
+      "message": "データ伝送"
+   },
+   "sendFailed": {
+      "message": "送信に失敗しました"
+   },
+   "sendFfmpeg": {
+      "message": "オンラインffmpegに送る"
+   },
+   "setRequestHeaders": {
+      "message": "リクエストヘッダーの設定"
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "simulateMobile": {
+      "message": "スマホシミュ"
+   },
+   "skipDecryption": {
+      "message": "暗号解除のスキップ"
+   },
+   "speedPlayback": {
+      "message": "倍速再生"
+   },
+   "start": {
+      "message": "開始"
+   },
+   "startGTend": {
+      "message": "開始番号が終了番号より大きくなることはない。"
+   },
+   "stopDownload": {
+      "message": "ダウンロードの停止"
+   },
+   "stopRecording": {
+      "message": "録音停止"
+   },
+   "streamOnbeforeunload": {
+      "message": "ストリームをプッシュし、閉じるとダウンロードが止まる..."
+   },
+   "streamSaverTip": {
+      "message": "そのまま保存機能 ffmpegのオンラインフォーマット変換をサポートしていない エラースライスのリダウンをサポートしていない 名前を付けて保存をサポートしていない"
+   },
+   "suffix": {
+      "message": "接尾辞"
+   },
+   "suffixTip": {
+      "message": "点記号を含まない拡張子を入力し，ファイルサイズの筛选を行わずにゼロを入力してください"
+   },
+   "systemShare": {
+      "message": "システム情報共有"
+   },
+   "test": {
+      "message": "テスト"
+   },
+   "titleDownload": {
+      "message": "cat-catch ダウンローダー"
+   },
+   "titleJson": {
+      "message": "cat-catch JSONフォーマッタ"
+   },
+   "titleM3U8": {
+      "message": "cat-catch M3U8解析器"
+   },
+   "titleOption": {
+      "message": "cat-catch 設定"
+   },
+   "titledash": {
+      "message": "cat-catch DASH解析器"
+   },
+   "type": {
+      "message": "タイプ"
+   },
+   "typeTip": {
+      "message": "正しい content-type を入力し、ファイルサイズの筛选を行わずにゼロを入力してください"
+   },
+   "unknownSize": {
+      "message": "不明なサイズ"
+   },
+   "uploadKey": {
+      "message": "キーのアップロード"
+   },
+   "userAgentTip": {
+      "message": "何も入れない場合は、現在使っているブラウザが自動で選ばれます User Agent"
+   },
+   "video": {
+      "message": "ビデオ"
+   },
+   "videoRecording": {
+      "message": "ビデオ録画を開始する"
+   },
+   "viewSlices": {
+      "message": "すべてのスライスとダウンロードの進行状況を表示する"
+   },
+   "volume": {
+      "message": "ボリューム"
+   },
+   "waitDownload": {
+      "message": "ダウンロード待ち..."
+   },
+   "waitingForLiveData": {
+      "message": "ライブデータを待つ"
+   },
+   "waitingForMedia": {
+      "message": "メディア ファイルの受信を待っています... このページを閉じないでください..."
+   },
+   "withinChina": {
+      "message": "中国国内"
+   }
+}
