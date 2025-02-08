@@ -1,0 +1,3 @@
+C:/Users/32282/Desktop/计算机图形学/test/ConsoleApplication2/build/CMakeFiles/main.dir
+C:/Users/32282/Desktop/计算机图形学/test/ConsoleApplication2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/32282/Desktop/计算机图形学/test/ConsoleApplication2/build/CMakeFiles/ZERO_CHECK.dir

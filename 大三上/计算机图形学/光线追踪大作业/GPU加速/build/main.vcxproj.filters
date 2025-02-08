@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\32282\Desktop\计算机图形学\test\ConsoleApplication2\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\32282\Desktop\计算机图形学\test\ConsoleApplication2\lib\hdrloader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\32282\Desktop\计算机图形学\test\ConsoleApplication2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{131BEFC5-B7B6-3255-90D0-1F5297C4BB25}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

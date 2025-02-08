@@ -1,0 +1,10 @@
+^C:\USERS\32282\DESKTOP\计算机图形学\TEST\CONSOLEAPPLICATION2\BUILD\CMAKEFILES\875CD7F93277A45458E920F5F1AC869C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/32282/Desktop/计算机图形学/test/ConsoleApplication2 -BC:/Users/32282/Desktop/计算机图形学/test/ConsoleApplication2/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/32282/Desktop/计算机图形学/test/ConsoleApplication2/build/main.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
