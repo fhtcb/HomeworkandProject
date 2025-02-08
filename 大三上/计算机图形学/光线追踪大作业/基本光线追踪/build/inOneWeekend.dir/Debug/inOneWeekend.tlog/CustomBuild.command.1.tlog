@@ -1,0 +1,10 @@
+^C:\USERS\32282\DESKTOP\计算机图形学\大作业\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/32282/Desktop/计算机图形学/大作业 -BC:/Users/32282/Desktop/计算机图形学/大作业/build --check-stamp-file C:/Users/32282/Desktop/计算机图形学/大作业/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
